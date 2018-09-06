@@ -1,0 +1,10 @@
+{
+    "name": "yxz/laravel-tools",
+    "description": "The Laravel debug tools.",
+    "keywords": ["tools", "laravel"],
+    "type": "project",
+    "require": {
+        "php": ">=7.0.0",
+        "laravel/framework": "^5.6"
+    }
+}

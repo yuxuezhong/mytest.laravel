@@ -167,6 +167,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Yxz\LaravelTools\LaravelToolsServiceProvider::class,
 
         /*
          * Application Service Providers...
